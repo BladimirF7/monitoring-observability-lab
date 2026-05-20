@@ -1,0 +1,31 @@
+{
+  "environment": "lab",
+  "total_hosts": 18,
+  "healthy_hosts": 15,
+  "warning_hosts": 2,
+  "critical_hosts": 1,
+  "active_alerts": 4,
+  "last_updated": "2026-05-20T10:00:00Z",
+  "services": [
+    {
+      "name": "Zabbix Server",
+      "status": "healthy"
+    },
+    {
+      "name": "Zabbix MySQL Database",
+      "status": "healthy"
+    },
+    {
+      "name": "Graylog Server",
+      "status": "warning"
+    },
+    {
+      "name": "EasyDCIM Cluster",
+      "status": "healthy"
+    },
+    {
+      "name": "WireGuard Instances",
+      "status": "healthy"
+    }
+  ]
+}
