@@ -1,0 +1,27 @@
+[
+  {
+    "source": "core-arista-01",
+    "device_type": "Arista Core Switch",
+    "events_last_24h": 18420
+  },
+  {
+    "source": "nexus-agg-01",
+    "device_type": "Cisco Nexus Switch",
+    "events_last_24h": 22350
+  },
+  {
+    "source": "a10-cgnat-01",
+    "device_type": "A10 Thunder",
+    "events_last_24h": 96500
+  },
+  {
+    "source": "linux-server-01",
+    "device_type": "Linux Server",
+    "events_last_24h": 7300
+  },
+  {
+    "source": "wireguard-gw-01",
+    "device_type": "WireGuard Gateway",
+    "events_last_24h": 4100
+  }
+]
