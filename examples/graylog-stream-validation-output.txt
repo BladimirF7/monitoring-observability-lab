@@ -1,0 +1,21 @@
+======================================================================
+GRAYLOG STREAM VALIDATION
+======================================================================
+
+Stream Title : Network Infrastructure Logs
+Description  : Centralized logs from Arista, Nexus, A10, and VPN infrastructure
+Disabled     : false
+Matching     : AND
+----------------------------------------------------------------------
+
+Stream Title : Linux Server Logs
+Description  : Authentication, system, application, and security logs
+Disabled     : false
+Matching     : AND
+----------------------------------------------------------------------
+
+Stream Title : Monitoring Alerts
+Description  : Zabbix alerts, operational notifications, and monitoring events
+Disabled     : false
+Matching     : OR
+----------------------------------------------------------------------
