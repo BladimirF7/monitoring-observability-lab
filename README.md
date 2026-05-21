@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="diagrams/monitoring-observability-banner.png" alt="Monitoring & Observability Banner">
-</p>
-
 <h1 align="center">Monitoring & Observability Lab</h1>
 
 <p align="center">
