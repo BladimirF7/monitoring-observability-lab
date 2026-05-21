@@ -1,6 +1,19 @@
-# Monitoring & Observability Lab
+<p align="center">
+  <img src="diagrams/monitoring-observability-banner.png" alt="Monitoring & Observability Banner">
+</p>
 
-Infrastructure monitoring architectures, observability workflows, telemetry integrations, logging pipelines, alerting standards, and operational visibility tooling.
+<h1 align="center">Monitoring & Observability Lab</h1>
+
+<p align="center">
+  Infrastructure monitoring architectures • Observability workflows • Telemetry integrations • Infrastructure Visibility • Centralized Logging • logging pipelines
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Graylog-Logging-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Telemetry-Observability-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
 ---
 
